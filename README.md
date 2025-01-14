@@ -59,6 +59,8 @@ A **modelagem estatística** é um método de análise que utiliza técnicas mat
 1. **Modelagem Preditiva**:
    - **Problema**: Prever o custo de entrega através de um modelo.
    - **Conclusão**: O coeficiente de determinação (R²) do modelo apresentou aproximadamente 42%, indicando que o modelo explicou cerca de 42% da variabilidade da variável alvo. Esse resultado demonstra a importância de melhorar a seleção de variáveis e técnicas de codificação para aumentar a capacidade preditiva do modelo.
+     
+   ![image](https://github.com/user-attachments/assets/fbb9a9ed-8de4-4a26-a9e2-211310bca3dc)
 
 2. **Modelagem Estatística**:
    - **Problema 2**: Identificar a relação entre o custo de entrega e as outras variáveis.
